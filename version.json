@@ -1,0 +1,15 @@
+{
+  "version": "2026.11.01.2",
+  "gameUrl": "https://raw.githubusercontent.com/thmllw/bonk-updates/main/headlock/index.html",
+  "sha256": "7baed5387a606e416b519cb644b8e8a6684538947a2ec0fb9dd6eccb317807a2",
+  "notes": [
+    "🗺️ 4 maps dessinées à la main, tirées au hasard",
+    "🧠 IA tactique : économie, fumées, ressac, Écho, retake",
+    "👀 Les bots tournent progressivement",
+    "🔪 Nouvelles animations (couteau, mort, ACE)"
+  ],
+  "maintenance": {
+    "on": false,
+    "msg": ""
+  }
+}
